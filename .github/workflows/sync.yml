@@ -206,13 +206,13 @@ jobs:
                   )
 
           # README with frontmatter
-          front = f"""---
+          front = """---
 license: mit
 tags:
   - discount-codes
   - prop-firm
   - trading
-  - {os.environ['FIRM_SLUG']}
+  - """ + os.environ['FIRM_SLUG'] + """
 configs:
   - config_name: default
     data_files: observations.json
