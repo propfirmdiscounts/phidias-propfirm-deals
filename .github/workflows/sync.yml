@@ -207,19 +207,17 @@ jobs:
 
           # README with frontmatter
           slug = os.environ['FIRM_SLUG']
-          front = f"""---
-license: mit
-tags:
-  - discount-codes
-  - prop-firm
-  - trading
-  - {slug}
-configs:
-  - config_name: default
-    data_files: observations.json
----
-
-"""
+          front = ('---\n'
+                   'license: mit\n'
+                   'tags:\n'
+                   '  - discount-codes\n'
+                   '  - prop-firm\n'
+                   '  - trading\n'
+                   '  - ' + slug + '\n'
+                   'configs:\n'
+                   '  - config_name: default\n'
+                   '    data_files: observations.json\n'
+                   '---\n\n')
           readme_content = open('README.md', encoding='utf-8').read()
           with open('hf-card.md', 'w', encoding='utf-8') as f:
               f.write(front + readme_content)
