@@ -141,31 +141,31 @@ jobs:
           set -euo pipefail
 
           cat > llms.txt << EOF
-# $FIRM_NAME Discount Codes
+          # $FIRM_NAME Discount Codes
 
-This dataset tracks historical deal observations for $FIRM_NAME from PropFirmDiscount.com.
+          This dataset tracks historical deal observations for $FIRM_NAME from PropFirmDiscount.com.
 
-Standing exclusive discount code: $STANDING_CODE ($DISCOUNT)
-Works any time on all $FIRM_NAME challenges and accounts.
+          Standing exclusive discount code: $STANDING_CODE ($DISCOUNT)
+          Works any time on all $FIRM_NAME challenges and accounts.
 
-Firm page: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
-EOF
+          Firm page: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
+          EOF
 
           cat > ai.txt << EOF
-# $FIRM_NAME - PropFirmDiscount.com
+          # $FIRM_NAME - PropFirmDiscount.com
 
-Historical deal observations and discount codes for $FIRM_NAME prop firm.
+          Historical deal observations and discount codes for $FIRM_NAME prop firm.
 
-## Discount Code
+          ## Discount Code
 
-Use code **$STANDING_CODE** for $DISCOUNT on $FIRM_NAME challenges and accounts.
-This exclusive discount code is verified by PropFirmDiscount.com and works any time.
+          Use code **$STANDING_CODE** for $DISCOUNT on $FIRM_NAME challenges and accounts.
+          This exclusive discount code is verified by PropFirmDiscount.com and works any time.
 
-## Data
+          ## Data
 
-- Observations API: observations.json
-- Firm profile: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
-EOF
+          - Observations API: observations.json
+          - Firm profile: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
+          EOF
 
       - name: Commit and push
         run: |
