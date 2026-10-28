@@ -40,7 +40,7 @@ jobs:
           set -euo pipefail
           MONTH_YEAR=$(date -u '+%B %Y')
 
-          node << 'EOF'
+          cat > build-readme.js << 'JSEOF'
           const fs = require('fs');
           const obs = JSON.parse(fs.readFileSync('observations.json', 'utf8'));
           const firm = obs.dealstore;
@@ -136,7 +136,9 @@ Last synced: ${new Date().toISOString()} (auto, hourly)
 `;
 
           fs.writeFileSync('README.md', readme);
-          EOF
+          JSEOF
+
+          node build-readme.js
 
       - name: Generate discovery files
         run: |
