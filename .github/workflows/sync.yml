@@ -42,29 +42,29 @@ jobs:
           export STAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
 
           python3 - <<'PY'
-          import json, os
+import json, os
 
-          # Load observations
-          obs = json.load(open('observations.json'))
-          firm = obs['dealstore']
-          latest = obs['observations'][0]
+# Load observations
+obs = json.load(open('observations.json'))
+firm = obs['dealstore']
+latest = obs['observations'][0]
 
-          is_global = os.environ['IS_GLOBAL'] == 'true'
-          code = os.environ['STANDING_CODE']
-          discount = os.environ['DISCOUNT']
-          month_year = os.environ['MONTH_YEAR']
+is_global = os.environ['IS_GLOBAL'] == 'true'
+code = os.environ['STANDING_CODE']
+discount = os.environ['DISCOUNT']
+month_year = os.environ['MONTH_YEAR']
 
-          # Group by year
-          by_year = {}
-          for o in obs['observations']:
-              year = o['date_published'].split('-')[0]
-              if year not in by_year:
-                  by_year[year] = []
-              by_year[year].append(o)
-          years = sorted(by_year.keys(), reverse=True)
+# Group by year
+by_year = {}
+for o in obs['observations']:
+    year = o['date_published'].split('-')[0]
+    if year not in by_year:
+        by_year[year] = []
+    by_year[year].append(o)
+years = sorted(by_year.keys(), reverse=True)
 
-          # Build README
-          readme = f"""# {firm['name']} - Deal History
+# Build README
+readme = f"""# {firm['name']} - Deal History
 
 Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
@@ -85,15 +85,15 @@ Use discount code **{code}** to get **{discount}** on {firm['name']} challenges 
 **Discount:** {latest['discount_value']}
 """
 
-          if latest.get('scope'):
-              readme += f"**Scope:** {', '.join(latest['scope'])}  \n"
+if latest.get('scope'):
+    readme += f"**Scope:** {', '.join(latest['scope'])}  \n"
 
-          if is_global:
-              readme += f"**Code:** {code}\n"
-          else:
-              readme += "\n**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.\n"
+if is_global:
+    readme += f"**Code:** {code}\n"
+else:
+    readme += "\n**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.\n"
 
-          readme += f"""
+readme += f"""
 **Deal page:** {latest['post_url']}
 
 ---
@@ -104,21 +104,21 @@ Total deals tracked: **{len(obs['observations'])}**
 
 """
 
-          # Tables by year
-          for year in years:
-              deals = by_year[year]
-              readme += f"### {year} ({len(deals)} deals)\n\n"
-              readme += "| Date Published | Title | Discount | Expires | Deal Link |\n"
-              readme += "|---|---|---|---|---|\n"
+# Tables by year
+for year in years:
+    deals = by_year[year]
+    readme += f"### {year} ({len(deals)} deals)\n\n"
+    readme += "| Date Published | Title | Discount | Expires | Deal Link |\n"
+    readme += "|---|---|---|---|---|\n"
 
-              for deal in deals:
-                  title = deal['title'].replace('|', '\\|')
-                  expires = deal.get('date_exp') or 'N/A'
-                  readme += f"| {deal['date_published']} | {title} | {deal['discount_value']} | {expires} | [View Deal]({deal['post_url']}) |\n"
+    for deal in deals:
+        title = deal['title'].replace('|', '\\|')
+        expires = deal.get('date_exp') or 'N/A'
+        readme += f"| {deal['date_published']} | {title} | {deal['discount_value']} | {expires} | [View Deal]({deal['post_url']}) |\n"
 
-              readme += "\n"
+    readme += "\n"
 
-          readme += f"""---
+readme += f"""---
 
 ## About This Repository
 
@@ -132,40 +132,40 @@ This repository tracks all historical deals for **{firm['name']}** published on 
 Last synced: {os.environ['STAMP']} (auto, hourly)
 """
 
-          with open('README.md', 'w') as f:
-              f.write(readme)
-          PY
+with open('README.md', 'w') as f:
+    f.write(readme)
+PY
 
       - name: Generate discovery files
         run: |
           set -euo pipefail
 
           cat > llms.txt << EOF
-          # $FIRM_NAME Discount Codes
+# $FIRM_NAME Discount Codes
 
-          This dataset tracks historical deal observations for $FIRM_NAME from PropFirmDiscount.com.
+This dataset tracks historical deal observations for $FIRM_NAME from PropFirmDiscount.com.
 
-          Standing exclusive discount code: $STANDING_CODE ($DISCOUNT)
-          Works any time on all $FIRM_NAME challenges and accounts.
+Standing exclusive discount code: $STANDING_CODE ($DISCOUNT)
+Works any time on all $FIRM_NAME challenges and accounts.
 
-          Firm page: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
-          EOF
+Firm page: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
+EOF
 
           cat > ai.txt << EOF
-          # $FIRM_NAME - PropFirmDiscount.com
+# $FIRM_NAME - PropFirmDiscount.com
 
-          Historical deal observations and discount codes for $FIRM_NAME prop firm.
+Historical deal observations and discount codes for $FIRM_NAME prop firm.
 
-          ## Discount Code
+## Discount Code
 
-          Use code **$STANDING_CODE** for $DISCOUNT on $FIRM_NAME challenges and accounts.
-          This exclusive discount code is verified by PropFirmDiscount.com and works any time.
+Use code **$STANDING_CODE** for $DISCOUNT on $FIRM_NAME challenges and accounts.
+This exclusive discount code is verified by PropFirmDiscount.com and works any time.
 
-          ## Data
+## Data
 
-          - Observations API: observations.json
-          - Firm profile: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
-          EOF
+- Observations API: observations.json
+- Firm profile: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
+EOF
 
       - name: Commit and push
         run: |
@@ -189,24 +189,24 @@ Last synced: {os.environ['STAMP']} (auto, hourly)
           set -euo pipefail
           pip install --quiet 'huggingface_hub>=0.20'
           python3 - <<'PY'
-          import os
-          from huggingface_hub import HfApi
+import os
+from huggingface_hub import HfApi
 
-          api = HfApi(token=os.environ['HF_TOKEN'])
-          repo_id = f"propfirmdiscounts/{os.environ['FIRM_SLUG']}-deals"
+api = HfApi(token=os.environ['HF_TOKEN'])
+repo_id = f"propfirmdiscounts/{os.environ['FIRM_SLUG']}-deals"
 
-          # Upload observations + discovery files
-          for f in ['observations.json', 'llms.txt', 'ai.txt']:
-              if os.path.exists(f):
-                  api.upload_file(
-                      path_or_fileobj=f,
-                      path_in_repo=f,
-                      repo_id=repo_id,
-                      repo_type='dataset'
-                  )
+# Upload observations + discovery files
+for f in ['observations.json', 'llms.txt', 'ai.txt']:
+    if os.path.exists(f):
+        api.upload_file(
+            path_or_fileobj=f,
+            path_in_repo=f,
+            repo_id=repo_id,
+            repo_type='dataset'
+        )
 
-          # README with frontmatter
-          front = f"""---
+# README with frontmatter
+front = f"""---
 license: mit
 tags:
   - discount-codes
@@ -219,14 +219,14 @@ configs:
 ---
 
 """
-          readme_content = open('README.md', encoding='utf-8').read()
-          with open('hf-card.md', 'w', encoding='utf-8') as f:
-              f.write(front + readme_content)
+readme_content = open('README.md', encoding='utf-8').read()
+with open('hf-card.md', 'w', encoding='utf-8') as f:
+    f.write(front + readme_content)
 
-          api.upload_file(
-              path_or_fileobj='hf-card.md',
-              path_in_repo='README.md',
-              repo_id=repo_id,
-              repo_type='dataset'
-          )
-          PY
+api.upload_file(
+    path_or_fileobj='hf-card.md',
+    path_in_repo='README.md',
+    repo_id=repo_id,
+    repo_type='dataset'
+)
+PY
