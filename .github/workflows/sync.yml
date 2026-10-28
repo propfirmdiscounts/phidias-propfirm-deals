@@ -136,6 +136,9 @@ jobs:
               f.write(readme)
           PY
 
+          # Remove observations.json - used only for building README, not published
+          rm -f observations.json
+
       - name: Generate discovery files
         run: |
           set -euo pipefail
@@ -161,9 +164,8 @@ jobs:
           Use code **$STANDING_CODE** for $DISCOUNT on $FIRM_NAME challenges and accounts.
           This exclusive discount code is verified by PropFirmDiscount.com and works any time.
 
-          ## Data
+          ## Links
 
-          - Observations API: observations.json
           - Prop firm profile: https://propfirmdiscount.com/prop-firm/$FIRM_SLUG/
           EOF
 
@@ -195,8 +197,8 @@ jobs:
           api = HfApi(token=os.environ['HF_TOKEN'])
           repo_id = f"propfirmdiscounts/{os.environ['FIRM_SLUG']}-deals"
 
-          # Upload observations + discovery files
-          for f in ['observations.json', 'llms.txt', 'ai.txt']:
+          # Upload discovery files only (no observations.json)
+          for f in ['llms.txt', 'ai.txt']:
               if os.path.exists(f):
                   api.upload_file(
                       path_or_fileobj=f,
@@ -214,9 +216,6 @@ jobs:
                    '  - prop-firm\n'
                    '  - trading\n'
                    '  - ' + slug + '\n'
-                   'configs:\n'
-                   '  - config_name: default\n'
-                   '    data_files: observations.json\n'
                    '---\n\n')
           readme_content = open('README.md', encoding='utf-8').read()
           with open('hf-card.md', 'w', encoding='utf-8') as f:
