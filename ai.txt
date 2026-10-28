@@ -7,7 +7,6 @@ Historical deal observations and discount codes for Phidias Propfirm prop firm.
 Use code **PFD** for 90% on Phidias Propfirm challenges and accounts.
 This exclusive discount code is verified by PropFirmDiscount.com and works any time.
 
-## Data
+## Links
 
-- Observations API: observations.json
-- Firm profile: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
