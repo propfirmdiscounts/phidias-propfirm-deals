@@ -78,7 +78,7 @@ jobs:
 
           ## Latest Deal
 
-          ### {latest['title']}
+          ### {firm['name']} - {latest['title']}
   
           **Published:** {latest['date_published']}  
           **Offer ends:** {latest.get('date_exp') or 'N/A'}  
