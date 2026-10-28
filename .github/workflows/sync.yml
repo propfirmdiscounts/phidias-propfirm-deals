@@ -79,10 +79,10 @@ jobs:
           ## Latest Deal
 
           ### {latest['title']}
-
-          **Published:** {latest['date_published']}
-          **Offer ends:** {latest.get('date_exp') or 'N/A'}
-          **Discount:** {latest['discount_value']}
+  
+          **Published:** {latest['date_published']}  
+          **Offer ends:** {latest.get('date_exp') or 'N/A'}  
+          **Discount:** {latest['discount_value']}  
           """
 
           if latest.get('scope'):
