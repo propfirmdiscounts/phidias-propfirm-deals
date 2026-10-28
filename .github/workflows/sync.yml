@@ -89,9 +89,9 @@ jobs:
               readme += f"**Scope:** {', '.join(latest['scope'])}  \n"
 
           if is_global:
-              readme += f"**Code:** {code}\n"
+              readme += f"\n**Code:** {code}  \n"
           else:
-              readme += "\n**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.\n"
+              readme += "\n**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  \n"
 
           readme += f"""
           **Deal page:** {latest['post_url']}
