@@ -1,13 +1,3 @@
----
-license: other
-tags:
-- discount-codes
-- prop-firm
-- trading
-- phidias-propfirm
-size_categories:
-- n<1K
----
 # Phidias Propfirm - Deal History
 
 Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
@@ -16,7 +6,7 @@ Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscoun
 
 **Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
 
-Use discount code **PFD** to get **90% off** on Phidias Propfirm challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Phidias Propfirm evaluation accounts.
+Use discount code **PFD** to get **90%** on Phidias Propfirm challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Phidias Propfirm evaluation accounts.
 
 ---
 
@@ -24,25 +14,24 @@ Use discount code **PFD** to get **90% off** on Phidias Propfirm challenges and 
 
 ### Phidias Propfirm - 90% off first-month challenge entry for Halloween
 
-<ul>
-<li><strong>Published:</strong> 2026-10-25</li>
-<li><strong>Offer ends:</strong> 2026-11-01 17:00</li>
-<li><strong>Discount:</strong> 90%</li>
-<li><strong>Scope:</strong> Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K</li>
-<li><strong>Code:</strong> PFD</li>
-<li><strong>Deal page:</strong> <a href="https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/">https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/</a></li>
-</ul>
+**Published:** 2026-10-25  
+**Offer ends:** 2026-11-01 17:00  
+**Discount:** 90%  
+**Scope:** Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K  
 
+**Code:** PFD  
+
+**Deal page:** https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/
 
 ---
 
-## Discount Code History
+## Deal History
 
-Total deals tracked: **{len(obs['observations'])}**
+Total deals tracked: **39**
 
 ### 2026 (33 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
+| Date Published | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2026-10-25 | 90% off first-month challenge entry for Halloween | 90% | 2026-11-01 17:00 | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
 | 2026-10-20 | 85% Off 50K Accounts - Express to Live Now $108 | 85% | 2026-10-25 (ended) | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) |
@@ -80,7 +69,7 @@ Total deals tracked: **{len(obs['observations'])}**
 
 ### 2025 (5 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
+| Date Published | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2025-12-30 | New Year Deal: 80% Off OTP and Up to 60% Off Entry Fees | 80% | Ended | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/) |
 | 2025-12-13 | 80% Off OTP Entry Fee & 100% Payout Split Deal | 80% | Ended | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-otp-100-profit-split/) |
@@ -90,7 +79,7 @@ Total deals tracked: **{len(obs['observations'])}**
 
 ### 2024 (1 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
+| Date Published | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2024-11-25 | Black Friday 50% Discount on Challenge Pricing and Resets | 50% | Ended | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-50-off/) |
 
@@ -100,16 +89,9 @@ Total deals tracked: **{len(obs['observations'])}**
 
 This repository tracks all historical deals for **Phidias Propfirm** published on PropFirmDiscount.com. Updated hourly via automated sync.
 
-**Data source:** PropFirmDiscount.com
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/phidias-propfirm/
+**Data source:** PropFirmDiscount.com  
+**Prop firm profile:** https://propfirmdiscount.com/prop-firm/phidias-propfirm/  
 
-## Freshness
+---
 
-<!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T06:06:50Z (auto, hourly)
-
-Deals are tracked continuously by the PropFirmDiscount team; this mirror syncs with the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
-
-## License
-
-Data © PropFirmDiscount. May be referenced with attribution and a link to https://propfirmdiscount.com.
+Last synced: 2026-10-29T06:32:57Z (auto, hourly)
