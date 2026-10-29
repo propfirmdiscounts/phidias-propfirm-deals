@@ -1,4 +1,4 @@
-# Phidias Propfirm - Discount Codes & Deal History
+# Phidias Propfirm - Deal History
 
 Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
 
@@ -24,13 +24,13 @@ Use discount code **PFD** to get **90% off** on Phidias Propfirm challenges and 
 
 ---
 
-## Discount Codes & Deal History
+## Deal History
 
 Total deals tracked: **39**
 
 ### 2026 (33 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2026-10-25 | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
 | 2026-10-20 | 85% Off 50K Accounts - Express to Live Now $108 | 85% off | 2026-10-25 (ended) | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) |
@@ -68,7 +68,7 @@ Total deals tracked: **39**
 
 ### 2025 (5 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2025-12-30 | New Year Deal: 80% Off OTP and Up to 60% Off Entry Fees | 80% off | Ended | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/) |
 | 2025-12-13 | 80% Off OTP Entry Fee & 100% Payout Split Deal | 80% off | Ended | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-otp-100-profit-split/) |
@@ -78,7 +78,7 @@ Total deals tracked: **39**
 
 ### 2024 (1 deals)
 
-| Date Published | Title | Discount | Expires | Deal Link |
+| Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2024-11-25 | Black Friday 50% Discount on Challenge Pricing and Resets | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-50-off/) |
 
@@ -94,7 +94,7 @@ This repository tracks all historical deals for **Phidias Propfirm** published o
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T07:42:19Z (auto, hourly)
+Last synced: 2026-10-29T07:58:18Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
