@@ -1,5 +1,10 @@
 ---
 license: other
+configs:
+- config_name: phidias-propfirm-deals
+  data_files:
+  - split: data
+    path: datasets/phidias-propfirm-deals.json
 tags:
   - discount-codes
   - prop-firm
@@ -103,7 +108,7 @@ This repository tracks all historical deals for **Phidias Propfirm** published o
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T09:05:50Z (auto, hourly)
+Last synced: 2026-10-29T12:10:07Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
