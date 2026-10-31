@@ -1,820 +1,820 @@
 [
   {
-    "prop_firm": "Phidias Propfirm",
-    "prop_firm_slug": "phidias-propfirm",
-    "standing_code": "PFD",
-    "standing_discount": "90%",
-    "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
     "deal_id": 13021,
     "title": "90% off first-month challenge entry for Halloween",
-    "date_published": "2026-10-25",
-    "date_exp": "2026-11-01 17:00",
-    "discount_value": "90%",
-    "last_verified": "2026-10-25",
     "offer_type": "coupon",
+    "discount_value": "90%",
     "scope": [
       "Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K"
     ],
+    "date_published": "2026-10-25",
+    "date_exp": "2026-11-01 17:00",
+    "last_verified": "2026-10-25",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12940,
     "title": "85% Off 50K Accounts - Express to Live Now $108",
-    "date_published": "2026-10-20",
-    "date_exp": "2026-10-25 (ended)",
-    "discount_value": "85%",
-    "last_verified": "2026-10-20",
     "offer_type": "coupon",
+    "discount_value": "85%",
     "scope": [
       "50K Express To Live, 50K Fundamental, 50K Premium, One-Time Payment Accounts"
     ],
+    "date_published": "2026-10-20",
+    "date_exp": "2026-10-25 (ended)",
+    "last_verified": "2026-10-20",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12863,
     "title": "85% Off 50K One-Time Payment Challenges",
-    "date_published": "2026-10-12",
-    "date_exp": "2026-10-25 (ended)",
-    "discount_value": "85%",
-    "last_verified": "2026-10-12",
     "offer_type": "coupon",
+    "discount_value": "85%",
     "scope": [
       "50K Accounts, Fundamental, Express To Live, Premium, One-Time Payment"
     ],
+    "date_published": "2026-10-12",
+    "date_exp": "2026-10-25 (ended)",
+    "last_verified": "2026-10-12",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12745,
     "title": "$10,000 Evaluation Account Entry Fee Reduced to $30",
-    "date_published": "2026-10-01",
-    "date_exp": "2026-11-23",
-    "discount_value": "Only $30",
-    "last_verified": "2026-10-01",
     "offer_type": "coupon",
+    "discount_value": "Only $30",
     "scope": [
       "$10,000 Account, Fall Edition Challenge"
     ],
+    "date_published": "2026-10-01",
+    "date_exp": "2026-11-23",
+    "last_verified": "2026-10-01",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12696,
     "title": "Q4 Offer: Up To 80% Off Evaluations & $69 One-Time Accounts",
-    "date_published": "2026-09-21",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-09-21",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Express To Live, Fundamental, Premium Accounts, One-Time Payment Models, Standard Evaluations"
     ],
+    "date_published": "2026-09-21",
+    "date_exp": "Ended",
+    "last_verified": "2026-09-21",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-q4-discount-69-accounts/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12627,
     "title": "Up to 80% Off Evaluations & Accounts for Equinox",
-    "date_published": "2026-09-09",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-09-09",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "All One-Time Payment Families, 25K Express To Live, Fundamental, Premium, Express To Live"
     ],
+    "date_published": "2026-09-09",
+    "date_exp": "Ended",
+    "last_verified": "2026-09-09",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-equinox-sale-80-off/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12554,
     "title": "Labor Day Promotion: Up to 80% Off Evaluation Accounts",
-    "date_published": "2026-09-04",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-09-04",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Fundamental, Premium, Express To Live, 50K, 100K, 150K, 25K"
     ],
+    "date_published": "2026-09-04",
+    "date_exp": "Ended",
+    "last_verified": "2026-09-04",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12499,
     "title": "Up to 80% Off One-Time Entry Costs and 60% Off Monthly Subscriptions",
-    "date_published": "2026-08-24",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-08-24",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Express To Live, Fundamental, Premium, One-Time Payment, Monthly Evaluation"
     ],
+    "date_published": "2026-08-24",
+    "date_exp": "Ended",
+    "last_verified": "2026-08-24",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-september/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12439,
     "title": "Up to 80% Off Challenge Pricing and One-Time Payment Accounts",
-    "date_published": "2026-08-10",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-08-10",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Fundamental, Premium, Express To Live, One-Time Payment, Evaluations"
     ],
+    "date_published": "2026-08-10",
+    "date_exp": "Ended",
+    "last_verified": "2026-08-10",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-preseason/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12391,
     "title": "Up to 80% Off One-Time Accounts and 50-60% Off Evaluations",
-    "date_published": "2026-08-01",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-08-01",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Otp, Fundamental, Premium, Express To Live, 25K"
     ],
+    "date_published": "2026-08-01",
+    "date_exp": "Ended",
+    "last_verified": "2026-08-01",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-otp-evaluations/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12356,
     "title": "80% Off Upfront Entry Cost and 60% Off Select Challenge Pricing",
-    "date_published": "2026-07-20",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-07-20",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "One-Time Accounts, Fundamental Evaluations, Premium Evaluations, Express To Live Evaluations"
     ],
+    "date_published": "2026-07-20",
+    "date_exp": "Ended",
+    "last_verified": "2026-07-20",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-percent-off-sunset-sale/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12309,
     "title": "Flash Sale: 80% Off OTP and Up to 60% Off Evaluations",
-    "date_published": "2026-07-09",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-07-09",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Otp Accounts, Fundamental Evaluations, Premium Evaluations, Express To Live Evaluations"
     ],
+    "date_published": "2026-07-09",
+    "date_exp": "Ended",
+    "last_verified": "2026-07-09",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-flash-sale-80-off/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12277,
     "title": "50K Fundamental for $95 and Up to 80% Off Challenge Pricing",
-    "date_published": "2026-07-03",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-07-03",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "50K Fundamental, Otp, Premium Evaluations, Express To Live"
     ],
+    "date_published": "2026-07-03",
+    "date_exp": "Ended",
+    "last_verified": "2026-07-03",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12218,
     "title": "Father's Day Challenge Pricing: 90% Off First Month Deals",
-    "date_published": "2026-06-21",
-    "date_exp": "Ended",
-    "discount_value": "90%",
-    "last_verified": "2026-06-21",
     "offer_type": "coupon",
+    "discount_value": "90%",
     "scope": [
       "Fundamental, Premium, One-Time Purchases, Express To Live, All Account Sizes"
     ],
+    "date_published": "2026-06-21",
+    "date_exp": "Ended",
+    "last_verified": "2026-06-21",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-fathers-day-90-off-promotion/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12162,
     "title": "80% Off One-Time Purchases and 50% to 60% Off Evaluation Accounts",
-    "date_published": "2026-06-11",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-06-11",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "One-Time Purchases, Express To Live Evaluations, Fundamental Evaluations, Premium Evaluations, 25K Accounts"
     ],
+    "date_published": "2026-06-11",
+    "date_exp": "Ended",
+    "last_verified": "2026-06-11",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-world-cup-promotion/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12102,
     "title": "$30 Fixed Cost for Spring 10K Drawdown Challenge",
-    "date_published": "2026-06-03",
-    "date_exp": "Ended",
-    "discount_value": "Only $30",
-    "last_verified": "2026-06-03",
     "offer_type": "coupon",
+    "discount_value": "Only $30",
     "scope": [
       "Spring 10K Drawdown Challenge, $10,000 Account, No Evaluation"
     ],
+    "date_published": "2026-06-03",
+    "date_exp": "Ended",
+    "last_verified": "2026-06-03",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-spring-10k-challenge/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12019,
     "title": "Memorial Day: 50%, 60%, and 80% Off Evaluation Accounts",
-    "date_published": "2026-05-25",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-05-25",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Express To Live, Fundamental, Premium, One-Time Payment Bundles"
     ],
+    "date_published": "2026-05-25",
+    "date_exp": "Ended",
+    "last_verified": "2026-05-25",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-memorial-day-discount/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11972,
     "title": "Launch Momentum Sale: 50%, 60% and 80% Off Evaluation Entry Costs",
-    "date_published": "2026-05-18",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-05-18",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Express To Live, Fundamental, Premium, Otp Bundles"
     ],
+    "date_published": "2026-05-18",
+    "date_exp": "Ended",
+    "last_verified": "2026-05-18",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-launch-momentum-sale-discount/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11808,
     "title": "Up to 80% Off Challenge Costs",
-    "date_published": "2026-04-27",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-04-27",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "25K Evaluation, Fundamental Evaluation, Swing Evaluation, One-Time Payment Accounts"
     ],
+    "date_published": "2026-04-27",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-27",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-sale-may/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11771,
     "title": "$30 Challenge Pricing for 10K Competition",
-    "date_published": "2026-04-23",
-    "date_exp": "Ended",
-    "discount_value": "$30 OFF",
-    "last_verified": "2026-04-23",
     "offer_type": "coupon",
+    "discount_value": "$30 OFF",
     "scope": [
       "10K Drawdown Spring Edition"
     ],
+    "date_published": "2026-04-23",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-23",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-competition-entry/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11749,
     "title": "$30 Entry Cost for the Spring Edition Trading Pool",
-    "date_published": "2026-04-21",
-    "date_exp": "Ended",
-    "discount_value": "Only $30",
-    "last_verified": "2026-04-21",
     "offer_type": "coupon",
+    "discount_value": "Only $30",
     "scope": [
       "Spring Edition Pool, $10,000 Account"
     ],
+    "date_published": "2026-04-21",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-21",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-spring-edition-pool/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11689,
     "title": "Up to 80% Off All Account Types (Valid Until April 26, 2026)",
-    "date_published": "2026-04-13",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-04-13",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "25K Evaluation, Fundamental Evaluations, Swing Evaluations, One-Time Payment Accounts"
     ],
+    "date_published": "2026-04-13",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-13",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/up-to-80-off-all-accounts/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11660,
     "title": "90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations",
-    "date_published": "2026-04-06",
-    "date_exp": "Ended",
-    "discount_value": "90%",
-    "last_verified": "2026-04-06",
     "offer_type": "coupon",
+    "discount_value": "90%",
     "scope": [
       "Fundamental Evaluations, Swing Evaluations"
     ],
+    "date_published": "2026-04-06",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-06",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11551,
     "title": "50% to 80% Off Evaluation Accounts: Easter Promotion Pricing Structure",
-    "date_published": "2026-03-30",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-03-30",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "25K Static, Fund, Swing, Otp, Evaluation Accounts"
     ],
+    "date_published": "2026-03-30",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-30",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-easter-boost-discount/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11423,
     "title": "50%, 60%, and 80% Off Evaluation Accounts",
-    "date_published": "2026-03-13",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-03-13",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "25K Static, 50K-150K Evals, Otp Accounts"
     ],
+    "date_published": "2026-03-13",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-13",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-spring-rally-sale/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11266,
     "title": "50%, 60%, and 80% Off Evaluation Accounts",
-    "date_published": "2026-02-26",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-02-26",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "25K Static, Fundamental, Swing, Otp, Evaluation Accounts"
     ],
+    "date_published": "2026-02-26",
+    "date_exp": "Ended",
+    "last_verified": "2026-02-26",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-sale/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11231,
     "title": "$30 Challenge Pricing for 10K Drawdown Competition",
-    "date_published": "2026-02-20",
-    "date_exp": "Ended",
-    "discount_value": "Only $30",
-    "last_verified": "2026-02-20",
     "offer_type": "coupon",
+    "discount_value": "Only $30",
     "scope": [
       "10K Drawdown Challenge, New Year Edition"
     ],
+    "date_published": "2026-02-20",
+    "date_exp": "Ended",
+    "last_verified": "2026-02-20",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/30-entry-fee-10k-drawdown-challenge-new-year-edition/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 11142,
     "title": "Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations",
-    "date_published": "2026-02-11",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-02-11",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Static Evals, Fundamental Evals, Swing Evals, Otp Accounts, 25K, 50K-150K"
     ],
+    "date_published": "2026-02-11",
+    "date_exp": "Ended",
+    "last_verified": "2026-02-11",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-valentines-day-otp-discount/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10892,
     "title": "50% to 80% Off Trading Challenges and One-Time Payment Accounts",
-    "date_published": "2026-01-27",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-01-27",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "25K Static Evals, 50K-150K Fundamental & Swing Evals, All Otp Accounts"
     ],
+    "date_published": "2026-01-27",
+    "date_exp": "Ended",
+    "last_verified": "2026-01-27",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-mlk-sale-january-february/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10896,
     "title": "Phidias Propfirm Winter Sale: Up to 80% Off Evaluation Fees",
-    "date_published": "2026-01-12",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-01-12",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "One-Time Payment Accounts, Classic Fundamental & Swing, Static 25K, 10K Drawdown Ny Edition"
     ],
+    "date_published": "2026-01-12",
+    "date_exp": "Ended",
+    "last_verified": "2026-01-12",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-winter-launch-80-off/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10897,
     "title": "Save 80% on Cash Accounts and 60% on Evaluations",
-    "date_published": "2026-01-08",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2026-01-08",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Cash Accounts, Evaluation Accounts, Deepcharts Platform"
     ],
+    "date_published": "2026-01-08",
+    "date_exp": "Ended",
+    "last_verified": "2026-01-08",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-percent-off-cash-60-percent-off-evals/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10898,
     "title": "Phidias Propfirm Competition Entry for $30",
-    "date_published": "2026-01-06",
-    "date_exp": "Ended",
-    "discount_value": "55%",
-    "last_verified": "2026-01-06",
     "offer_type": "coupon",
+    "discount_value": "55%",
     "scope": [
       "Competition Entry, 10K Drawdown Challenge"
     ],
+    "date_published": "2026-01-06",
+    "date_exp": "Ended",
+    "last_verified": "2026-01-06",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-competition-entry-30-dollar/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10899,
     "title": "Competition Entry $30 With Cash Prizes & Account Rewards",
-    "date_published": "2026-01-02",
-    "date_exp": "Ended",
-    "discount_value": "54%",
-    "last_verified": "2026-01-02",
     "offer_type": "coupon",
+    "discount_value": "54%",
     "scope": [
       "Competition Entry"
     ],
+    "date_published": "2026-01-02",
+    "date_exp": "Ended",
+    "last_verified": "2026-01-02",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-competition-entry-new-year-2026/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10900,
     "title": "New Year Deal: 80% Off OTP and Up to 60% Off Entry Fees",
-    "date_published": "2025-12-30",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2025-12-30",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "One-Time Payment (Otp) Accounts, Fundamental Evaluations, Swing Evaluations, 25K Static Evaluations"
     ],
+    "date_published": "2025-12-30",
+    "date_exp": "Ended",
+    "last_verified": "2025-12-30",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10901,
     "title": "80% Off OTP Entry Fee & 100% Payout Split Deal",
-    "date_published": "2025-12-13",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2025-12-13",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "Otp, Fund & Swing Evaluation, 25K Evaluation"
     ],
+    "date_published": "2025-12-13",
+    "date_exp": "Ended",
+    "last_verified": "2025-12-13",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-otp-100-profit-split/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10902,
     "title": "Cyber Sale: 80% Off OTP & 60% Off Challenge Fees",
-    "date_published": "2025-12-03",
-    "date_exp": "Ended",
-    "discount_value": "80%",
-    "last_verified": "2025-12-03",
     "offer_type": "coupon",
+    "discount_value": "80%",
     "scope": [
       "One-Time Payment Accounts, Fundamental Evaluations, Swing Evaluations, 25K Static Evaluations"
     ],
+    "date_published": "2025-12-03",
+    "date_exp": "Ended",
+    "last_verified": "2025-12-03",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-cyber-sale-80-off/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10893,
     "title": "90% Discount on Challenge Pricing",
+    "offer_type": "coupon",
+    "discount_value": "90%",
+    "scope": [
+      "Evaluation Accounts"
+    ],
     "date_published": "2025-05-22",
     "date_exp": "Ended",
-    "discount_value": "90%",
     "last_verified": "2025-05-22",
-    "offer_type": "coupon",
-    "scope": [
-      "Evaluation Accounts"
-    ],
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-percent-off/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10894,
     "title": "90% Off Evaluation Challenges 24-Hour Sale",
-    "date_published": "2025-03-19",
-    "date_exp": "Ended",
-    "discount_value": "90%",
-    "last_verified": "2025-03-19",
     "offer_type": "coupon",
+    "discount_value": "90%",
     "scope": [
       "Evaluation Accounts"
     ],
+    "date_published": "2025-03-19",
+    "date_exp": "Ended",
+    "last_verified": "2025-03-19",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-percent-off-evaluation-accounts/",
-    "code": "PFD",
-    "code_state": "standing"
-  },
-  {
     "prop_firm": "Phidias Propfirm",
     "prop_firm_slug": "phidias-propfirm",
     "standing_code": "PFD",
     "standing_discount": "90%",
     "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 10895,
     "title": "Black Friday 50% Discount on Challenge Pricing and Resets",
-    "date_published": "2024-11-25",
-    "date_exp": "Ended",
-    "discount_value": "50%",
-    "last_verified": "2024-11-25",
     "offer_type": "coupon",
+    "discount_value": "50%",
     "scope": [
       "Evaluation Accounts, Resets"
     ],
+    "date_published": "2024-11-25",
+    "date_exp": "Ended",
+    "last_verified": "2024-11-25",
     "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-50-off/",
+    "prop_firm": "Phidias Propfirm",
+    "prop_firm_slug": "phidias-propfirm",
+    "standing_code": "PFD",
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
     "code": "PFD",
     "code_state": "standing"
   }
