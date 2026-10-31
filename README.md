@@ -1,30 +1,43 @@
-# Phidias Propfirm - Discount Codes & Deal History
+# Phidias Propfirm Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-25, Phidias Propfirm deals run up to 90% OFF with code PFD, which works any time — the newest is **90% off first-month challenge entry for Halloween**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/phidias-propfirm/
+- Code: PFD
+- Discount: Up to 90% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-25
+- Trustpilot: 3/5 (337 reviews)
+- Activate: https://propfirmdiscount.com/go/phidiaspropfirm
+- Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+## Current Phidias Propfirm deal: 90% off first-month challenge entry for Halloween
 
-Use discount code **PFD** to get **90% off** on Phidias Propfirm challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Phidias Propfirm evaluation accounts.
+- Published: 2026-10-25
+- Offer ends: 2026-11-01 17:00
+- Offer: 90% off
+- Scope: Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/
+
+## Phidias Propfirm discount code FAQ
+
+**What is the Phidias Propfirm discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 90% off Phidias Propfirm challenges and accounts.
+
+**Does the Phidias Propfirm discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Phidias Propfirm deal?**
+
+**90% off first-month challenge entry for Halloween** — published 2026-10-25. Offer ends: 2026-11-01 17:00. The offer is 90% off.
 
 ---
 
-## Latest Deal
-
-### Phidias Propfirm - 90% off first-month challenge entry for Halloween
-
-**Published:** 2026-10-25  
-**Offer ends:** 2026-11-01 17:00  
-**Discount:** 90% off  
-**Scope:** Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **39**
 
@@ -84,19 +97,20 @@ Total deals tracked: **39**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Phidias Propfirm** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Phidias Propfirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/phidias-propfirm/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
