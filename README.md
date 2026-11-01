@@ -1,9 +1,9 @@
 # Phidias Propfirm Discount Code
 
-As of 2026-10-25, Phidias Propfirm deals run up to 90% OFF with code PFD, which works any time — the newest is 90% off first-month challenge entry for Halloween.
+As of 2026-10-25, Phidias Propfirm deals run up to 80% OFF with code PFD, which works any time — the newest is 90% off first-month challenge entry for Halloween.
 
 - Code: PFD
-- Discount: Up to 90% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
+- Discount: Up to 80% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-25
 - Trustpilot: 3/5 (337 reviews)
@@ -26,7 +26,7 @@ As of 2026-10-25, Phidias Propfirm deals run up to 90% OFF with code PFD, which 
 
 **What is the Phidias Propfirm discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 90% off Phidias Propfirm challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 80% off Phidias Propfirm challenges and accounts.
 
 **Does the Phidias Propfirm discount code expire?**
 
