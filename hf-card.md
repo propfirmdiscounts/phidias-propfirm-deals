@@ -34,7 +34,7 @@ As of 2026-10-25, Phidias Propfirm deals run up to 80% OFF with code PFD, which 
 ## Current Phidias Propfirm deal: 90% off first-month challenge entry for Halloween
 
 - Published: 2026-10-25
-- Offer ends: 2026-11-01 17:00
+- Offer ends: 2026-11-01 17:00 (ended)
 - Offer: 90% off
 - Event: Halloween
 - Scope: Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K
@@ -53,7 +53,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Phidias Propfirm deal?**
 
-**90% off first-month challenge entry for Halloween** — published 2026-10-25. Offer ends: 2026-11-01 17:00. The offer is 90% off.
+**90% off first-month challenge entry for Halloween** — published 2026-10-25. Offer ends: 2026-11-01 17:00 (ended). The offer is 90% off.
 
 ---
 
@@ -65,7 +65,7 @@ Total deals tracked: **39**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-25 | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
+| 2026-10-25 | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
 | 2026-10-20 | 85% Off 50K Accounts - Express to Live Now $108 | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) |
 | 2026-10-12 | 85% Off 50K One-Time Payment Challenges | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) |
 | 2026-10-01 | $10,000 Evaluation Account Entry Fee Reduced to $30 | Only $30 | 2026-11-23 | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) |
