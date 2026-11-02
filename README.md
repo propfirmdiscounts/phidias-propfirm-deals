@@ -1,26 +1,25 @@
 # Phidias Propfirm Discount Code
 
-As of 2026-10-25, Phidias Propfirm deals run up to 80% OFF with code PFD, which works any time — the newest is 90% off first-month challenge entry for Halloween.
+As of 2026-11-02, Phidias Propfirm deals run up to 80% OFF with code PFD, which works any time — the newest is Up to 80% off every account, ending November 10.
 
 - Code: PFD
 - Discount: Up to 80% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-25
-- Trustpilot: 3/5 (337 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3/5 (338 reviews)
 - Activate: https://propfirmdiscount.com/go/phidiaspropfirm
 - Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Phidias Propfirm deal: 90% off first-month challenge entry for Halloween
+## Current Phidias Propfirm deal: Up to 80% off every account, ending November 10
 
-- Published: 2026-10-25
-- Offer ends: 2026-11-01 17:00 (ended)
-- Offer: 90% off
-- Event: Halloween
-- Scope: Fundamental Evaluations, Premium Evaluations, Express To Live Monthly Evaluations, One-Time Payment Accounts, 50K, 100K, 150K
+- Published: 2026-11-02
+- Offer ends: 2026-11-10
+- Offer: 80% off
+- Scope: Every Phidias Account: Express To Live, Fundamental And Premium
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/
+- Deal page: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/
 
 ## Phidias Propfirm discount code FAQ
 
@@ -34,18 +33,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Phidias Propfirm deal?**
 
-**90% off first-month challenge entry for Halloween** — published 2026-10-25. Offer ends: 2026-11-01 17:00 (ended). The offer is 90% off.
+**Up to 80% off every account, ending November 10** — published 2026-11-02. Offer ends: 2026-11-10. The offer is 80% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **39**
+Total deals tracked: **40**
 
-### 2026 (33 deals)
+### 2026 (34 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | Up to 80% off every account, ending November 10 | 80% off | 2026-11-10 | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) |
 | 2026-10-25 | 90% off first-month challenge entry for Halloween | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
 | 2026-10-20 | 85% Off 50K Accounts - Express to Live Now $108 | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) |
 | 2026-10-12 | 85% Off 50K One-Time Payment Challenges | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) |

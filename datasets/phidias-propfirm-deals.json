@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13098,
+    "title": "Up to 80% off every account, ending November 10",
+    "offer_type": "coupon",
+    "discount_value": "80%",
+    "scope": [
+      "Every Phidias Account: Express To Live, Fundamental And Premium"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "2026-11-10",
+    "event": null,
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/",
+    "prop_firm": "Phidias Propfirm",
+    "prop_firm_slug": "phidias-propfirm",
+    "standing_code": "PFD",
+    "standing_discount": "80%",
+    "activation_link": "https://propfirmdiscount.com/go/phidiaspropfirm",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/phidias-propfirm/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13021,
     "title": "90% off first-month challenge entry for Halloween",
     "offer_type": "coupon",
