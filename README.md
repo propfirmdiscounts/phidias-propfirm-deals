@@ -1,4 +1,4 @@
-# Phidias Propfirm Discount Code
+# Phidias Propfirm - Discount Codes & Deal History
 
 As of 2026-11-02, Phidias Propfirm deals run up to 80% OFF with code PFD, which works any time — the newest is Up to 80% off every account, ending November 10.
 
