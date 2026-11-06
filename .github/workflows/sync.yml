@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: phidiaspropfirm
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: phidias-propfirm
   DEALSTORE_ID: 402
   FIRM_NAME: Phidias Propfirm
