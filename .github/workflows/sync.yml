@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: phidias-propfirm-discount-codes
+  HF_NAMESPACE: phidiaspropfirm
+  HF_REPO_NAME: phidias-propfirm-deals
   FIRM_SLUG: phidias-propfirm
   DEALSTORE_ID: 402
   FIRM_NAME: Phidias Propfirm
