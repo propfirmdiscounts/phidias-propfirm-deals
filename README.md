@@ -7,10 +7,11 @@ As of 2026-11, Phidias Propfirm deals run 85% OFF with code PFD, which works any
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-11
 - Trustpilot: 3.1/5 (333 reviews)
-- Activate: https://propfirmdiscount.com/go/phidiaspropfirm
-- Firm page: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/phidias-propfirm-deals](https://github.com/propfirmdiscounts/phidias-propfirm-deals)
+- Activate: [https://propfirmdiscount.com/go/phidiaspropfirm](https://propfirmdiscount.com/go/phidiaspropfirm)
+- Firm page: [https://propfirmdiscount.com/prop-firm/phidias-propfirm/](https://propfirmdiscount.com/prop-firm/phidias-propfirm/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Phidias Propfirm deal: 85% Off Every 150K Account with code PFD
 
@@ -20,7 +21,7 @@ As of 2026-11, Phidias Propfirm deals run 85% OFF with code PFD, which works any
 - Event: Veterans Day
 - Scope: 150K One-Time Payment Accounts
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/
+- Deal page: [https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/)
 
 ## Phidias Propfirm discount code FAQ
 
@@ -104,9 +105,9 @@ Total deals tracked: **41**
 
 This repository mirrors every deal **Phidias Propfirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/phidias-propfirm/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/phidias-propfirm/](https://propfirmdiscount.com/prop-firm/phidias-propfirm/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/phidias-propfirm-deals.json`
 
