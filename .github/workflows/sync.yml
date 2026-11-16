@@ -21,7 +21,7 @@ env:
   DEALSTORE_ID: 402
   FIRM_NAME: Phidias Propfirm
   STANDING_CODE: PFD
-  DISCOUNT: 90%
+  DISCOUNT: 85%
   IS_GLOBAL: true
 
 jobs:
@@ -94,6 +94,25 @@ jobs:
           # add_off() appends " off" for display. The FAQ sentences below already
           # end in "off", so they take the bare rate instead of "50% off off".
           discount_pct = discount[:-4] if discount.endswith(' off') else discount
+
+          # For global firms, the standing code's % discount matches the current deal's % discount,
+          # UNLESS the current deal is too old (> 30 days old). If too old (or deal has no % discount),
+          # it falls back to the meta db discount above.
+          if is_global:
+              pub_date_str = latest.get('date_published', '')
+              deal_days_old = 999
+              if pub_date_str:
+                  try:
+                      from datetime import datetime, timezone
+                      pdate = datetime.strptime(pub_date_str, '%Y-%m-%d').date()
+                      deal_days_old = (datetime.now(timezone.utc).date() - pdate).days
+                  except Exception:
+                      pass
+
+              m_deal_pct = re.search(r'\d+(?:\.\d+)?%', str(latest.get('discount_value', '')))
+              if deal_days_old <= 30 and m_deal_pct:
+                  discount_pct = m_deal_pct.group(0)
+                  discount = add_off(discount_pct)
           activation = record.get('activation_link') or ''
           # The code the site publishes wins, so a swap on the firm page reaches
           # every file this run writes instead of waiting for the manifest to be
