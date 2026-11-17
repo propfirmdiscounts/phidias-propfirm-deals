@@ -1,4 +1,4 @@
-# Phidias Propfirm Discount Codes
+# Phidias Propfirm Discount Code & Deals History
 
 This dataset tracks historical deal observations for Phidias Propfirm from PropFirmDiscount.com.
 

@@ -1,4 +1,4 @@
-# Phidias Propfirm Discount Code & Deal History
+# Phidias Propfirm Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% OFF, which can be applied on the checkout page anytime. The newest is "85% Off Every 150K Account with code PFD".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-11
 - Trustpilot: [3.1/5 (333 reviews)](https://www.trustpilot.com/review/www.phidiaspropfirm.com)
-- GitHub repository: [Phidias Propfirm Deals Repository](https://github.com/propfirmdiscounts/phidias-propfirm-deals)
+- GitHub repository: [Phidias Propfirm Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/phidias-propfirm-deals)
 - Activate: [Activate Phidias Propfirm Discount Code](https://propfirmdiscount.com/go/phidiaspropfirm)
 - Firm page: [Phidias Propfirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/phidias-propfirm/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -23,7 +23,7 @@ As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% 
 - Code: PFD
 - Deal page: [Phidias Propfirm Deal Page](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/)
 
-## Phidias Propfirm Discount Code & Deals FAQ
+## Phidias Propfirm Discount Code & Deals History FAQ
 
 **What is the Phidias Propfirm discount code?**
 
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Phidias Propfirm Deal History
+## Phidias Propfirm Deals History
 
 Total deals tracked: **41**
 
@@ -101,7 +101,7 @@ Total deals tracked: **41**
 
 ---
 
-## About the Phidias Propfirm Deals Dataset
+## About the Phidias Propfirm Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Phidias Propfirm** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -109,7 +109,7 @@ This repository mirrors every deal **Phidias Propfirm** has published on PropFir
 - Prop firm profile: [Phidias Propfirm Profile](https://propfirmdiscount.com/prop-firm/phidias-propfirm/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Phidias Propfirm Deal Dataset: Field Definitions
+## Phidias Propfirm Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
