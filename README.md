@@ -6,7 +6,7 @@ As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% 
 - Discount: 85% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-11
-- Trustpilot: [3.1/5 (333 reviews)](https://www.trustpilot.com/review/www.phidiaspropfirm.com)
+- Trustpilot: [3/5 (335 reviews)](https://www.trustpilot.com/review/www.phidiaspropfirm.com)
 - GitHub repository: [Phidias Propfirm Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/phidias-propfirm-deals)
 - Activate: [Activate Phidias Propfirm Discount Code](https://propfirmdiscount.com/go/phidiaspropfirm)
 - Firm page: [Phidias Propfirm Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/phidias-propfirm/)
