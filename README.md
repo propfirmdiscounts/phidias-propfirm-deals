@@ -1,6 +1,6 @@
 # Phidias Propfirm Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% OFF, which can be applied on the checkout page anytime. The newest is "85% Off Every 150K Account with code PFD".
+As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% OFF, which can be applied on the checkout page anytime. The newest is "85% Off Every 150K Account (code PFD)".
 
 - Code: PFD
 - Discount: 85% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
@@ -13,7 +13,7 @@ As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Phidias Propfirm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Phidias Propfirm deal: 85% Off Every 150K Account with code PFD
+## Latest Phidias Propfirm deal: 85% Off Every 150K Account (code PFD)
 
 - Published: 2026-11-11
 - Offer ends: 2026-11-24
@@ -35,7 +35,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Phidias Propfirm deal?**
 
-**85% Off Every 150K Account with code PFD** — published 2026-11-11. Offer ends: 2026-11-24. The offer is 85% off.
+**85% Off Every 150K Account (code PFD)** — published 2026-11-11. Offer ends: 2026-11-24. The offer is 85% off.
 
 ---
 
@@ -47,57 +47,57 @@ Total deals tracked: **41**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account with code PFD | 85% off | 2026-11-24 | Veterans Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) |
-| 2026-11-02 | Phidias Propfirm: Up to 80% off every account, ending November 10 with code PFD | 80% off | 2026-11-10 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) |
-| 2026-10-25 | Phidias Propfirm: 90% off first-month challenge entry for Halloween with code PFD | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
-| 2026-10-20 | Phidias Propfirm: 85% Off 50K Accounts - Express to Live Now $108 with code PFD | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) |
-| 2026-10-12 | Phidias Propfirm: 85% Off 50K One-Time Payment Challenges with code PFD | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) |
-| 2026-10-01 | Phidias Propfirm: $10,000 Evaluation Account Entry Fee Reduced to $30 with code PFD | Only $30 | 2026-11-23 | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) |
-| 2026-09-21 | Phidias Propfirm: Q4 Offer: Up To 80% Off Evaluations & $69 One-Time Accounts with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-q4-discount-69-accounts/) |
-| 2026-09-09 | Phidias Propfirm: Up to 80% Off Evaluations & Accounts for Equinox with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-equinox-sale-80-off/) |
-| 2026-09-04 | Phidias Propfirm: Labor Day Promotion: Up to 80% Off Evaluation Accounts with code PFD | 80% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/) |
-| 2026-08-24 | Phidias Propfirm: Up to 80% Off One-Time Entry Costs and 60% Off Monthly Subscriptions with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-september/) |
-| 2026-08-10 | Phidias Propfirm: Up to 80% Off Challenge Pricing and One-Time Payment Accounts with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-preseason/) |
-| 2026-08-01 | Phidias Propfirm: Up to 80% Off One-Time Accounts and 50-60% Off Evaluations with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-otp-evaluations/) |
-| 2026-07-20 | Phidias Propfirm: 80% Off Upfront Entry Cost and 60% Off Select Challenge Pricing with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-percent-off-sunset-sale/) |
-| 2026-07-09 | Phidias Propfirm: Flash Sale: 80% Off OTP and Up to 60% Off Evaluations with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-flash-sale-80-off/) |
-| 2026-07-03 | Phidias Propfirm: 50K Fundamental for $95 and Up to 80% Off Challenge Pricing with code PFD | 80% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/) |
-| 2026-06-21 | Phidias Propfirm: Father's Day Challenge Pricing: 90% Off First Month Deals with code PFD | 90% off | Ended | Father's Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-fathers-day-90-off-promotion/) |
-| 2026-06-11 | Phidias Propfirm: 80% Off One-Time Purchases and 50% to 60% Off Evaluation Accounts with code PFD | 80% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-world-cup-promotion/) |
-| 2026-06-03 | Phidias Propfirm: $30 Fixed Cost for Spring 10K Drawdown Challenge with code PFD | Only $30 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-spring-10k-challenge/) |
-| 2026-05-25 | Phidias Propfirm: Memorial Day: 50%, 60%, and 80% Off Evaluation Accounts with code PFD | 80% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-memorial-day-discount/) |
-| 2026-05-18 | Phidias Propfirm: Launch Momentum Sale: 50%, 60% and 80% Off Evaluation Entry Costs with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-launch-momentum-sale-discount/) |
-| 2026-04-27 | Phidias Propfirm: Up to 80% Off Challenge Costs with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-sale-may/) |
-| 2026-04-23 | Phidias Propfirm: $30 Challenge Pricing for 10K Competition with code PFD | $30 OFF | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-competition-entry/) |
-| 2026-04-21 | Phidias Propfirm: $30 Entry Cost for the Spring Edition Trading Pool with code PFD | Only $30 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-spring-edition-pool/) |
-| 2026-04-13 | Phidias Propfirm: Up to 80% Off All Account Types (Valid Until April 26, 2026) with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/up-to-80-off-all-accounts/) |
-| 2026-04-06 | Phidias Propfirm: 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations with code PFD | 90% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/) |
-| 2026-03-30 | Phidias Propfirm: 50% to 80% Off Evaluation Accounts: Easter Promotion Pricing Structure with code PFD | 80% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-easter-boost-discount/) |
-| 2026-03-13 | Phidias Propfirm: 50%, 60%, and 80% Off Evaluation Accounts with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-spring-rally-sale/) |
-| 2026-02-26 | Phidias Propfirm: 50%, 60%, and 80% Off Evaluation Accounts with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-sale/) |
-| 2026-02-20 | Phidias Propfirm: $30 Challenge Pricing for 10K Drawdown Competition with code PFD | Only $30 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/30-entry-fee-10k-drawdown-challenge-new-year-edition/) |
-| 2026-02-11 | Phidias Propfirm: Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations with code PFD | 80% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-valentines-day-otp-discount/) |
-| 2026-01-27 | Phidias Propfirm: 50% to 80% Off Trading Challenges and One-Time Payment Accounts with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-mlk-sale-january-february/) |
-| 2026-01-12 | Phidias Propfirm: Phidias Propfirm Winter Sale: Up to 80% Off Evaluation Fees with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-winter-launch-80-off/) |
-| 2026-01-08 | Phidias Propfirm: Save 80% on Cash Accounts and 60% on Evaluations with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-percent-off-cash-60-percent-off-evals/) |
-| 2026-01-06 | Phidias Propfirm: Phidias Propfirm Competition Entry for $30 with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-competition-entry-30-dollar/) |
-| 2026-01-02 | Phidias Propfirm: Competition Entry $30 With Cash Prizes & Account Rewards with code PFD | 54% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-competition-entry-new-year-2026/) |
+| 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% off | 2026-11-24 | Veterans Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) |
+| 2026-11-02 | Phidias Propfirm: Up to 80% off every account, ending November 10 (code PFD) | 80% off | 2026-11-10 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) |
+| 2026-10-25 | Phidias Propfirm: 90% off first-month challenge entry for Halloween (code PFD) | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
+| 2026-10-20 | Phidias Propfirm: 85% Off 50K Accounts - Express to Live Now $108 (code PFD) | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-express-108/) |
+| 2026-10-12 | Phidias Propfirm: 85% Off 50K One-Time Payment Challenges (code PFD) | 85% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-50k-accounts/) |
+| 2026-10-01 | Phidias Propfirm: $10,000 Evaluation Account Entry Fee Reduced to $30 (code PFD) | Only $30 | 2026-11-23 | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-10000-challenge-30/) |
+| 2026-09-21 | Phidias Propfirm: Q4 Offer: Up To 80% Off Evaluations & $69 One-Time Accounts (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-q4-discount-69-accounts/) |
+| 2026-09-09 | Phidias Propfirm: Up to 80% Off Evaluations & Accounts for Equinox (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-equinox-sale-80-off/) |
+| 2026-09-04 | Phidias Propfirm: Labor Day Promotion: Up to 80% Off Evaluation Accounts (code PFD) | 80% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-labor-day-promotion/) |
+| 2026-08-24 | Phidias Propfirm: Up to 80% Off One-Time Entry Costs and 60% Off Monthly Subscriptions (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-september/) |
+| 2026-08-10 | Phidias Propfirm: Up to 80% Off Challenge Pricing and One-Time Payment Accounts (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-preseason/) |
+| 2026-08-01 | Phidias Propfirm: Up to 80% Off One-Time Accounts and 50-60% Off Evaluations (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-otp-evaluations/) |
+| 2026-07-20 | Phidias Propfirm: 80% Off Upfront Entry Cost and 60% Off Select Challenge Pricing (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-percent-off-sunset-sale/) |
+| 2026-07-09 | Phidias Propfirm: Flash Sale: 80% Off OTP and Up to 60% Off Evaluations (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-flash-sale-80-off/) |
+| 2026-07-03 | Phidias Propfirm: 50K Fundamental for $95 and Up to 80% Off Challenge Pricing (code PFD) | 80% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-independence-day-95-fundamental-account/) |
+| 2026-06-21 | Phidias Propfirm: Father's Day Challenge Pricing: 90% Off First Month Deals (code PFD) | 90% off | Ended | Father's Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-fathers-day-90-off-promotion/) |
+| 2026-06-11 | Phidias Propfirm: 80% Off One-Time Purchases and 50% to 60% Off Evaluation Accounts (code PFD) | 80% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-world-cup-promotion/) |
+| 2026-06-03 | Phidias Propfirm: $30 Fixed Cost for Spring 10K Drawdown Challenge (code PFD) | Only $30 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-spring-10k-challenge/) |
+| 2026-05-25 | Phidias Propfirm: Memorial Day: 50%, 60%, and 80% Off Evaluation Accounts (code PFD) | 80% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-memorial-day-discount/) |
+| 2026-05-18 | Phidias Propfirm: Launch Momentum Sale: 50%, 60% and 80% Off Evaluation Entry Costs (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-launch-momentum-sale-discount/) |
+| 2026-04-27 | Phidias Propfirm: Up to 80% Off Challenge Costs (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-sale-may/) |
+| 2026-04-23 | Phidias Propfirm: $30 Challenge Pricing for 10K Competition (code PFD) | $30 OFF | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-competition-entry/) |
+| 2026-04-21 | Phidias Propfirm: $30 Entry Cost for the Spring Edition Trading Pool (code PFD) | Only $30 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-30-spring-edition-pool/) |
+| 2026-04-13 | Phidias Propfirm: Up to 80% Off All Account Types (Valid Until April 26, 2026) (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/up-to-80-off-all-accounts/) |
+| 2026-04-06 | Phidias Propfirm: 90% Off First Month and 60% Off Renewals for Fundamental and Swing Evaluations (code PFD) | 90% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-off-60-off-evaluations/) |
+| 2026-03-30 | Phidias Propfirm: 50% to 80% Off Evaluation Accounts: Easter Promotion Pricing Structure (code PFD) | 80% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-easter-boost-discount/) |
+| 2026-03-13 | Phidias Propfirm: 50%, 60%, and 80% Off Evaluation Accounts (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-spring-rally-sale/) |
+| 2026-02-26 | Phidias Propfirm: 50%, 60%, and 80% Off Evaluation Accounts (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-discount-sale/) |
+| 2026-02-20 | Phidias Propfirm: $30 Challenge Pricing for 10K Drawdown Competition (code PFD) | Only $30 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/30-entry-fee-10k-drawdown-challenge-new-year-edition/) |
+| 2026-02-11 | Phidias Propfirm: Valentine's Day Special: 80% Off OTP Accounts and Up to 60% Off Evaluations (code PFD) | 80% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-valentines-day-otp-discount/) |
+| 2026-01-27 | Phidias Propfirm: 50% to 80% Off Trading Challenges and One-Time Payment Accounts (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-mlk-sale-january-february/) |
+| 2026-01-12 | Phidias Propfirm: Phidias Propfirm Winter Sale: Up to 80% Off Evaluation Fees (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-winter-launch-80-off/) |
+| 2026-01-08 | Phidias Propfirm: Save 80% on Cash Accounts and 60% on Evaluations (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-percent-off-cash-60-percent-off-evals/) |
+| 2026-01-06 | Phidias Propfirm: Phidias Propfirm Competition Entry for $30 (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-competition-entry-30-dollar/) |
+| 2026-01-02 | Phidias Propfirm: Competition Entry $30 With Cash Prizes & Account Rewards (code PFD) | 54% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-competition-entry-new-year-2026/) |
 
 ### 2025 (5 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-30 | Phidias Propfirm: New Year Deal: 80% Off OTP and Up to 60% Off Entry Fees with code PFD | 80% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/) |
-| 2025-12-13 | Phidias Propfirm: 80% Off OTP Entry Fee & 100% Payout Split Deal with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-otp-100-profit-split/) |
-| 2025-12-03 | Phidias Propfirm: Cyber Sale: 80% Off OTP & 60% Off Challenge Fees with code PFD | 80% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-cyber-sale-80-off/) |
-| 2025-05-22 | Phidias Propfirm: 90% Discount on Challenge Pricing with code PFD | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-percent-off/) |
-| 2025-03-19 | Phidias Propfirm: 90% Off Evaluation Challenges 24-Hour Sale with code PFD | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-percent-off-evaluation-accounts/) |
+| 2025-12-30 | Phidias Propfirm: New Year Deal: 80% Off OTP and Up to 60% Off Entry Fees (code PFD) | 80% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-new-year-sale-otp-evaluations/) |
+| 2025-12-13 | Phidias Propfirm: 80% Off OTP Entry Fee & 100% Payout Split Deal (code PFD) | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-80-off-otp-100-profit-split/) |
+| 2025-12-03 | Phidias Propfirm: Cyber Sale: 80% Off OTP & 60% Off Challenge Fees (code PFD) | 80% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-cyber-sale-80-off/) |
+| 2025-05-22 | Phidias Propfirm: 90% Discount on Challenge Pricing (code PFD) | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-percent-off/) |
+| 2025-03-19 | Phidias Propfirm: 90% Off Evaluation Challenges 24-Hour Sale (code PFD) | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-90-percent-off-evaluation-accounts/) |
 
 ### 2024 (1 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2024-11-25 | Phidias Propfirm: Black Friday 50% Discount on Challenge Pricing and Resets with code PFD | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-50-off/) |
+| 2024-11-25 | Phidias Propfirm: Black Friday 50% Discount on Challenge Pricing and Resets (code PFD) | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-50-off/) |
 
 ---
 
