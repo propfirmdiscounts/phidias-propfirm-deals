@@ -1,9 +1,9 @@
 # Phidias Propfirm Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% OFF, which can be applied on the checkout page anytime. The newest is "85% Off Every 150K Account (code PFD)".
+As of November 2026, the verified Phidias Propfirm discount code is PFD — 90% OFF, which can be applied on the checkout page anytime. The newest is "Up to 90% Off Every Account (code PFD)".
 
 - Code: PFD
-- Discount: 85% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
+- Discount: 90% off (what the code takes off the firm's newest deal; it applies to every Phidias Propfirm deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-25
 - Trustpilot: [3/5 (337 reviews)](https://www.trustpilot.com/review/www.phidiaspropfirm.com)
@@ -13,21 +13,21 @@ As of November 2026, the verified Phidias Propfirm discount code is PFD — 85% 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Phidias Propfirm API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Phidias Propfirm deal: 85% Off Every 150K Account (code PFD)
+## Latest Phidias Propfirm deal: Up to 90% Off Every Account (code PFD)
 
-- Published: 2026-11-11
-- Offer ends: 2026-11-24 (ended)
-- Offer: 85% off
-- Event: Veterans Day
-- Scope: 150K One-Time Payment Accounts
+- Published: 2026-11-25
+- Offer ends: 2026-11-27 17:00
+- Offer: 90% off
+- Event: Black Friday
+- Scope: Every Account, 25K To 150K
 - Code: PFD
-- Deal page: [Phidias Propfirm Deal Page](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/)
+- Deal page: [Phidias Propfirm Deal Page](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/)
 
 ## Phidias Propfirm Discount Code & Deals History FAQ
 
 **What is the Phidias Propfirm discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 85% off Phidias Propfirm challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 90% off Phidias Propfirm challenges and accounts.
 
 **Does the Phidias Propfirm discount code expire?**
 
@@ -35,18 +35,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Phidias Propfirm deal?**
 
-**85% Off Every 150K Account (code PFD)** — published 2026-11-11. Offer ends: 2026-11-24 (ended). The offer is 85% off.
+**Up to 90% Off Every Account (code PFD)** — published 2026-11-25. Offer ends: 2026-11-27 17:00. The offer is 90% off.
 
 ---
 
 ## Phidias Propfirm Deals History
 
-Total deals tracked: **41**
+Total deals tracked: **42**
 
-### 2026 (35 deals)
+### 2026 (36 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-25 | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% off | 2026-11-27 17:00 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/) |
 | 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% off | 2026-11-24 (ended) | Veterans Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) |
 | 2026-11-02 | Phidias Propfirm: Up to 80% off every account, ending November 10 (code PFD) | 80% off | 2026-11-10 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) |
 | 2026-10-25 | Phidias Propfirm: 90% off first-month challenge entry for Halloween (code PFD) | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
