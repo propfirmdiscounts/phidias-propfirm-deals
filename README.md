@@ -16,7 +16,7 @@ As of November 2026, the verified Phidias Propfirm discount code is PFD — 90% 
 ## Latest Phidias Propfirm deal: Up to 90% Off Every Account (code PFD)
 
 - Published: 2026-11-25
-- Offer ends: 2026-11-27 17:00
+- Offer ends: 2026-11-27 17:00 (ended)
 - Offer: 90% off
 - Event: Black Friday
 - Scope: Every Account, 25K To 150K
@@ -35,7 +35,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Phidias Propfirm deal?**
 
-**Up to 90% Off Every Account (code PFD)** — published 2026-11-25. Offer ends: 2026-11-27 17:00. The offer is 90% off.
+**Up to 90% Off Every Account (code PFD)** — published 2026-11-25. Offer ends: 2026-11-27 17:00 (ended). The offer is 90% off.
 
 ---
 
@@ -47,7 +47,7 @@ Total deals tracked: **42**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-25 | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% off | 2026-11-27 17:00 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/) |
+| 2026-11-25 | Phidias Propfirm: Up to 90% Off Every Account (code PFD) | 90% off | 2026-11-27 17:00 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-black-friday-up-to-90-off-every-account/) |
 | 2026-11-11 | Phidias Propfirm: 85% Off Every 150K Account (code PFD) | 85% off | 2026-11-24 (ended) | Veterans Day | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-85-off-150k-veterans-day/) |
 | 2026-11-02 | Phidias Propfirm: Up to 80% off every account, ending November 10 (code PFD) | 80% off | 2026-11-10 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-up-to-80-off-every-account/) |
 | 2026-10-25 | Phidias Propfirm: 90% off first-month challenge entry for Halloween (code PFD) | 90% off | 2026-11-01 17:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-halloween-90-off-first-month-evaluations/) |
